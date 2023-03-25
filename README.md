@@ -2,11 +2,10 @@
 🔭 I’m currently working on python , Django and cloud services.<br>👯 I’m looking to collaborate on projects that needed coding skill<br>🤝 I’m looking for help with Django , Django rest API, cloud services.<br><br>👨‍💻 All of my projects are available at https://github.com/esuba-t<br>📫 How to reach me esuba419@gmail.com
 
 
-## 🌐 Socials:
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esuba-t) 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@esuba.t) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esubat) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/esuba.t) 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/esuba_te) 
 
 # 💻 Tech Stack:
