@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on python , Django and cloud services.<br>👯 I’m looking to collaborate on projects that needed coding skill<br>🤝 I’m looking for help with Django , Django rest API, cloud services.<br><br>👨‍💻 All of my projects are available at https://github.com/esuba-t<br>📫 How to reach me esuba419@gmail.com
+🔭 I’m currently working on python , Django and cloud services.<br>👯 I’m looking to collaborate on projects that needed coding skill<br>🤝 I’m looking for help with Django , Django rest API, cloud services.<br><br>👨‍💻 All of my projects are available at https://github.com/esubateshager<br>📫 How to reach me esuba419@gmail.com
 
 
 
