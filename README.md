@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/esubat/esubat](https://github.com/esubat/esubat)
 
-- 📝 I regularly write articles on [https://medium.com/@esuba.t](https://medium.com/@esuba.t)
+- 📝 I write articles on [https://medium.com/@esuba.t](https://medium.com/@esuba.t)
 
 - 📫 How to reach me **esubateshager@gmail.conm**
 
