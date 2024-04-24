@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esubat&label=Profile%20views&color=0e75b6&style=flat" alt="esubat" /> </p>
 
-- 🔭 I’m currently working on **python , Django and Flask**
-
-- 👯👯 I’m looking to collaborate on **projects that needed coding skill**
-
-- 🤝🤝 I’m looking for help with **Django , Django Rest Framework, cloud services.**
+* Backend | Machine Learning and AI *
 
 - 👨‍💻 All of my projects are available at [https://github.com/esubat/esubat](https://github.com/esubat/esubat)
 
