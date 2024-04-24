@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esubat&label=Profile%20views&color=0e75b6&style=flat" alt="esubat" /> </p>
 
-* Backend | Machine Learning and AI *
+<h3 align="center"> <strong> Backend | Machine Learning and AI </strong></h3>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/esubat/esubat](https://github.com/esubat/esubat)
 
